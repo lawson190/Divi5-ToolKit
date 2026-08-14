@@ -7,3 +7,4 @@ Notes and usage details for Divi5-ToolKit.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
